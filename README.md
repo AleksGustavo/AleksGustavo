@@ -5,7 +5,7 @@
 Me chamo Aleksander Gustavo, tenho 28 anos e sou natural de Leme, São Paulo. Sou Técnico em Desenvolvimento de Sistemas, formado pela Etec Deputado Salim Sedeh, com formação em dezembro de 2024 e atualmente, faço o superior em Desenvolvimento de Software Multiplataforma na Fatec Professor Antônio Brambilla, em Araras.
 
 Meu Linkedin:  [Aleksander Gustavo](https://www.linkedin.com/in/aleksandergustavo/) <br>
-Meu Instagram: [Aleksander Gustavo](https://www.instagram.com/_aleksandergustavo/).
+Meu Instagram: [Aleksander Gustavo](https://www.instagram.com/_aleksandergustavo/) <br>
 
 <p align="left"> 
     <a href="https://github.com/AleksGustavo">
